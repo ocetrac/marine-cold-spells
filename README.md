@@ -1,10 +1,10 @@
 # Identifying cold blobs with [Ocetrac](https://ocetrac.readthedocs.io/en/latest/)
 
 ### What are marine cold spells?
-Marine cold spell (MCS) are rare events of unusally cold sea surface temperatures (SSTs). Unlike [*marine heatwaves*](https://github.com/ocetrac/marine-heatwaves), MCS are believed to benefit marine ecosystem by bringing relief to rising ocean temperature. Ocean warming is increasingly making MCS weaker and less frequent (e.g., [Chriswell, 2021](https://www.nature.com/articles/s41467-021-25160-y)). 
+Marine cold spell (MCS) are rare events of unusally cold sea surface temperatures (SSTs). Unlike [*marine heatwaves*](https://github.com/ocetrac/marine-heatwaves), MCS are believed to benefit marine ecosystem by bringing relief to rising ocean temperatures. However, ocean warming is increasingly making MCS weaker and less frequent (e.g., [Chriswell, 2021](https://www.nature.com/articles/s41467-021-25160-y)). 
 
 ### Why do we care about MCS?
-Identifying and understanding the mechanisms of MCS may better help us to better predict climate refugia for marine ecosystems. This will ultimately help to manage efforts to support local aquaculture, marine protected areas, and fishery productivity. 
+Identifying and understanding the mechanisms of MCS may better help us to predict climate refugia for marine species. This will ultimately help us to manage efforts in supporting local aquaculture, marine protected areas, and fishery productivity. 
 
 ### How can Ocetrac be of help?
 Ocetrac is useful for identifying and tracking extreme climate anomalies with complex spatiotemporal dynamics. It allows for the characterization of MCS evolution in both time and space. This is critical for understanding MCS as these events are not stationary and can easily move across basins. 
