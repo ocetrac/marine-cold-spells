@@ -7,7 +7,7 @@ Marine cold spell (MCS) are rare events of unusally cold sea surface temperature
 Identifying and understanding the mechanisms of MCS may better help us to predict climate refugia for marine species. This will ultimately help us to manage efforts in supporting local aquaculture, marine protected areas, and fishery productivity. 
 
 ### How can Ocetrac be of help?
-Ocetrac is useful for identifying and tracking extreme climate anomalies with complex spatiotemporal dynamics. It allows for the characterization of MCS evolution in both time and space. This is critical for understanding MCS as these events are not stationary and can easily move across ocean basins. 
+Ocetrac is a useful tool for identifying and tracking extreme climate anomalies with complex spatiotemporal dynamics. It allows for the characterization of MCS evolution in both time and space. This is critical for understanding MCS as these events are not stationary and can easily move across ocean basins. 
 
 ___
 ## Data Availability
