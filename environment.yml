@@ -1,0 +1,15 @@
+name: marine-cold-spells
+channels:
+  - mamba
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - s3fs
+  - xarray
+  - numpy
+  - pandas
+  - matplotlib
+  - netcdf4
+  - zarr
+  - ocetrac
